@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="com.google.gdt.eclipse.managedapis.MANAGED_API_CONTAINER/youtubeAnalytics-v1r48lv1.18.0-rc"/>
+	<classpathentry kind="con" path="com.google.gdt.eclipse.managedapis.MANAGED_API_CONTAINER/youtube-v3r125lv1.18.0-rc"/>
+	<classpathentry kind="lib" path="C:/Users/Martel/Downloads/google-oauth-client-jetty-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Martel/Downloads/google-oauth-client-java6-1.11.0-beta-sources.jar/google-oauth-client-java6-1.11.0-beta-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Martel/Downloads/uploadbean1.9/WEB-INF/lib/cos.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Martel/Downloads/uploadbean1.9/WEB-INF/lib/fileupload.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Martel/Downloads/uploadbean1.9/WEB-INF/lib/struts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Martel/Downloads/uploadbean1.9/WEB-INF/lib/uploadbean.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
